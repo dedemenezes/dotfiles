@@ -75,3 +75,5 @@ export EDITOR=code
 export PYTHONBREAKPOINT=ipdb.set_trace
 sudo /etc/init.d/postgresql start
 eval "$(direnv hook zsh)"
+export GOOGLE_APPLICATION_CREDENTIALS=/home/dedefla/code/dedemenezes/gcp/le-wagon-ds-1912-22c4d4eef3cb.json
+export PYTHONPATH="/home/dedefla/code/dedemenezes/studies/CLIs/cookbook_py"
